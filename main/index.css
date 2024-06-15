@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.language_chooser {
+    display: flex;
+}
+.language_chooser {
+    justify-content: center;
+    color: gray;
+    text-align: center;
+    border-radius: 100px;
+    border-color: blue;
+    height: 50px;
+}
+.minecraft_1_8 {
+    display: flex;
+}
+.minecraft_1_8 {
+    justify-content: center;
+    height: 50px;
+    width: 100%;
+}
